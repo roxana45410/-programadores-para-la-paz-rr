@@ -1,0 +1,5 @@
+Mantener un registro de cambios con herramientas como Git es fundamental porque nos permite tener el control total sobre la evolución del proyecto. Gracias a esto, siempre sabemos qué se modificó, quién lo hizo y por qué, lo que facilita mucho encontrar y corregir errores rápidamente.
+
+Otra gran ventaja es la seguridad: si una actualización causa problemas, podemos regresar a una versión anterior que funcionaba bien sin perder todo el avance logrado. Esto es vital también cuando trabajan varias personas al mismo tiempo, ya que ayuda a combinar el trabajo de todos sin sobrescribir ni borrar los cambios de los compañeros.
+
+En conclusión, usar Git hace que el desarrollo sea mucho más ordenado, seguro y colaborativo, reduciendo riesgos y asegurando que la calidad del proyecto siempre sea la mejor posible.
